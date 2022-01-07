@@ -1,0 +1,12 @@
+2022-Jan-07-17:-09:55,ETL Process Started..
+2022-Jan-07-17:-09:55,Extract Phase Started
+2022-Jan-07-17:-09:55,Extraction Phase Ended
+2022-Jan-07-17:-09:55,Transformation step Started
+2022-Jan-07-17:-10:14,ETL Process Started..
+2022-Jan-07-17:-10:14,Extract Phase Started
+2022-Jan-07-17:-10:14,Extraction Phase Ended
+2022-Jan-07-17:-10:14,Transformation step Started
+2022-Jan-07-17:-10:14,Transformation step Ended
+2022-Jan-07-17:-10:14,Load Started
+2022-Jan-07-17:-10:14,Load Ended
+2022-Jan-07-17:-10:14,ETL Process Ended

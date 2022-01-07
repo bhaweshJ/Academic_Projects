@@ -1,0 +1,17 @@
+00:09:25-Jan-05-2022,ETL Process started
+00:09:25-Jan-05-2022,Extraction Process started
+00:10:40-Jan-05-2022,ETL Process started
+00:10:40-Jan-05-2022,Extraction Process started
+00:11:27-Jan-05-2022,ETL Process started
+00:11:27-Jan-05-2022,Extraction Process started
+00:11:27-Jan-05-2022,ETL process completed for Extract process
+00:11:27-Jan-05-2022,ETL tranform process step
+00:11:27-Jan-05-2022,ETL tranform process Completed
+00:11:27-Jan-05-2022,Load process Started
+00:12:18-Jan-05-2022,ETL Process started
+00:12:18-Jan-05-2022,Extraction Process started
+00:12:18-Jan-05-2022,ETL process completed for Extract process
+00:12:18-Jan-05-2022,ETL tranform process step
+00:12:18-Jan-05-2022,ETL tranform process Completed
+00:12:18-Jan-05-2022,Load process Started
+00:12:18-Jan-05-2022,Log process Completed
